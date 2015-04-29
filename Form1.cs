@@ -28,7 +28,7 @@ namespace TwitterSearch
         private const string TwitterUser = "roblong99";
         private const string TwitterPass = "c90s90wfd0-dsf0-";
         private string searchterm;
-        private string errormessage = "Oops, something bad happened.";
+        private string errormessage = "Oops,something bad happened.";
         private string AppName = "Twitter Search Tool";
         private string blanksearch = "Search/Folder name cannot be blank";
         private int numberresults;

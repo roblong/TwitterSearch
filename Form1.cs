@@ -34,6 +34,7 @@ namespace TwitterSearch
         private int numberresults;
         private string fileproblem = "problem with that file or folder";
         //private Twitter tweets = new Twitter();
+        //note
         
         private Twitter.TwitSearchDates Dates = new Twitter.TwitSearchDates();
         
